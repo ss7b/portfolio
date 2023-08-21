@@ -1,0 +1,282 @@
+{
+    "info":[
+        {"id":1, "icon": "fa-solid fa-calendar-days", "info":"1997.5.27"},
+        {"id":2, "icon": "fa-brands fa-whatsapp", "info":"+966 555 424 064"},
+        {"id":3, "icon": "fa-solid fa-at", "info":"babks93@gamil.com"},
+        {"id":4, "icon": "fa-solid fa-location-dot", "info":"Makkah, Saudi arabia"}
+    ],
+    "services" : [
+        {"id":1, "icon": "fa-solid fa-laptop-code", "title":"Front-end devloment"},
+        {"id":2, "icon": "fa-solid fa-mobile", "title":"Responsive web site"},
+        {"id":3, "icon": "fa-solid fa-palette", "title":"web Design"},
+        {"id":4, "icon": "fa-solid fa-bullhorn", "title":"landing page"},
+        {"id":5, "icon": "fa-solid fa-shop", "title":"e-commerce"},
+        {"id":6, "icon": "fa-solid fa-code", "title":"PSD to HTML & CSS"}
+    ],
+    "comments":[
+        {"id":1, "name":"Suhail", "comment":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier.", "avatar":"./imgs/comment-1.jpg"},
+        {"id":2, "name":"Yarob", "comment":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier.", "avatar":"./imgs/comment-2.jpg"},
+        {"id":3, "name":"Gheth", "comment":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier.", "avatar":"./imgs/comment-3.jpg"},
+        {"id":4, "name":"Falah", "comment":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier.", "avatar":"./imgs/comment-2.jpg"},
+        {"id":5, "name":"Sami", "comment":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier.", "avatar":"./imgs/comment-1.jpg"},
+        {"id":6, "name":"Safi", "comment":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier.", "avatar":"./imgs/comment-3.jpg"}        
+    ],
+    "experiences":[
+        {"id":1, "date":"2010 - Present", "title":"Art Director - Facebook Inc", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":1, "date":"2008 - 2010", "title":"Senior Designer - Google", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":1, "date":"2005 - 2008", "title":"Junior Designer - Creative Shake", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":1, "date":"2004 - 2008", "title":"Junior Designer - Grovemade", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":1, "date":"2000 - 2004", "title":"Facebook Inc", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."}
+    ],
+    "educations":[
+        {"id":1, "date":"2004 - 2009", "title":"Abc University of Los Angeles", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":2, "date":"2008 - 2010", "title":"Drawing Course", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":3, "date":"2000 - 2003", "title":"Abc High School", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."},
+        {"id":4, "date":"2010 - Present", "title":"Abc Collage of Los Angeles", "body":"I would gladly pay over 600 dollars for tavonline. Tavonline has really helped our business. I like tavonline more and more each day because it makes my life a lot easier."}
+    ],
+
+    "skills":[
+        {"id":1, "title":"English", "percent": "70"},
+        {"id":2, "title":"Arabic", "percent": "100"},
+        {"id":3, "title":"france", "percent": "60"},
+        {"id":4, "title":"Spanish", "percent": "40"}    
+    ],
+
+    "design":[
+        {"id":1, "title":"Photoshop", "percent": "80"},
+        {"id":2, "title":"Figma", "percent": "70"},
+        {"id":3, "title":"Sketch", "percent": "50"}
+    ],
+
+    "coding":[
+        {"id":1, "title":"Javascript", "percent": "90"},
+        {"id":2, "title":"HTML5", "percent": "100"},
+        {"id":3, "title":"CSS", "percent": "100"}
+    ],
+    "works":[
+        {
+            "id":1,
+            "cover":"./imgs/por1.jpg",
+            "images":["./imgs/projects/p1-1.jpg","./imgs/projects/p1-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://resplendent-liger-283286.netlify.app/"
+            
+            
+        },
+        {
+            "id":2,
+            "cover":"./imgs/por2.jpg",
+            "images":["./imgs/projects/p2-1.jpg","./imgs/projects/p2-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/coffee-site/"
+            
+            
+        },
+        {
+            "id":3,
+            "cover":"./imgs/por3.jpg",
+            "images":["./imgs/projects/p3-1.jpg","./imgs/projects/p3-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/her.fashion/"
+            
+            
+        },
+        {
+            "id":4,
+            "cover":"./imgs/por4.jpg",
+            "images":["./imgs/projects/p4-1.jpg","./imgs/projects/p4-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/template-three/"
+            
+            
+        },
+        {
+            "id":5,
+            "cover":"./imgs/por5.jpg",
+            "images":["./imgs/projects/p5-1.jpg","./imgs/projects/p5-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/company/"
+            
+            
+        }, 
+        {
+            "id":6,
+            "cover":"./imgs/por6.jpg",
+            "images":["./imgs/projects/p6-1.jpg","./imgs/projects/p6-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/comingsoon/"
+            
+            
+        },
+        {
+            "id":7,
+            "cover":"./imgs/por7.jpg",
+            "images":["./imgs/projects/p7-1.jpg","./imgs/projects/p7-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/to-do-list/"
+            
+            
+        },
+        {
+            "id":8,
+            "cover":"./imgs/por8.jpg",
+            "images":["./imgs/projects/p8-1.jpg","./imgs/projects/p8-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/marsol/"
+            
+            
+        },
+        {
+            "id":9,
+            "cover":"./imgs/por9.jpg",
+            "images":["./imgs/projects/p9-1.jpg","./imgs/projects/p9-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/landingpage-1/"
+            
+            
+        },
+        {
+            "id":10,
+            "cover":"./imgs/por10.jpg",
+            "images":["./imgs/projects/p10-1.jpg","./imgs/projects/p10-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/landingpage-2/"
+            
+            
+        },
+        {
+            "id":11,
+            "cover":"./imgs/por11.jpg",
+            "images":["./imgs/projects/p11-1.jpg","./imgs/projects/p11-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/template-tow/"
+            
+            
+        },
+        {
+            "id":12,
+            "cover":"./imgs/por12.jpg",
+            "images":["./imgs/projects/p1-12.jpg","./imgs/projects/p12-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/htmlcsstemblate1/"
+            
+            
+        },
+        {
+            "id":13,
+            "cover":"./imgs/por13.jpg",
+            "images":["./imgs/projects/p13-1.jpg","./imgs/projects/p13-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://roaring-cobbler-e5767a.netlify.app/"
+            
+            
+        },
+        {
+            "id":14,
+            "cover":"./imgs/por14.jpg",
+            "images":["./imgs/projects/p14-1.jpg","./imgs/projects/p14-2.jpg"], 
+            "title":"templet-one",
+            "desc": "Vörda (Swedish for “to protect, to respect”) is a US-based brand committed to bringing high-quality, natural products sourced from Asia and Europe to the North American market. By North was commissioned to develop the name, brand strategy, visual identity and packaging for the new brand. We developed a bespoke logotype with distinct features that comes to life in animations.",
+            "date":{
+                "year":2020,
+                "month": 11,
+                "day" : 28
+            },
+            "tec":["html", "css", "js","react"],
+            "webSite": "https://ss7b.github.io/suhail/"
+            
+            
+        }
+    ]    
+}

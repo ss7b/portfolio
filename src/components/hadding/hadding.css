@@ -1,0 +1,7 @@
+.hadding{
+    width: fit-content;
+    border-bottom: 4px solid var(--main-color);
+    margin-bottom: 2.5rem;
+    font-size: 1.3rem;
+}
+

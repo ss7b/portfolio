@@ -1,0 +1,57 @@
+.circular-progress{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.circular-progress::before{
+    content: "";
+    position: absolute;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: var(--bg-color);
+}
+.circular-progress + span{
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.percent{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+}
+.skills-hading{
+    font-size: 1.7rem;
+    opacity: .3;
+    transform: rotate(90deg);
+    line-height: 50px;
+    font-weight: 600;
+    max-width: 100%;
+    letter-spacing: 6px;
+}
+.liner-progress h3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 2px;
+
+    font-size: 14px;
+}
+.the-progress{
+    height: 5px;
+    background-color: #eee;
+    position: relative;
+    border-radius: 10px;
+}
+.the-progress span{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: var(--main-color);
+}

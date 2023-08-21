@@ -1,0 +1,15 @@
+.card{
+    background-color: var(--light-white-c) !important;
+    padding: 30px !important;
+    border-radius: 10px !important;
+    position: relative;
+}
+
+
+.card .date{color: var(--main-color) !important}
+.card .title{color: var(--white-c) !important}
+.card .body{
+    color: var(--white-c) !important;
+    opacity: .7 ;
+    margin-top: 1rem;
+}

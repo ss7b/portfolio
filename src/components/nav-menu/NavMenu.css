@@ -1,0 +1,33 @@
+.hamburger-react {
+    background: var(--main-color);
+    border-radius: 50%;
+}
+.hamburger-react >div >div{
+    color: var(--bg-color);
+    width: 28px !important;
+    left: 10px !important;
+}
+.hidden{
+    display: none ;
+}
+.visible{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    line-height: 2rem;
+}
+li>a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    transition: all ease .3s;
+}
+
+.active{
+    color: var(--main-color);
+    text-decoration: line-through;
+}
+    

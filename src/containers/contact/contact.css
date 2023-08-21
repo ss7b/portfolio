@@ -1,0 +1,48 @@
+.contact-info{
+    margin-bottom: 30px;
+}
+.contact-info > *{
+    color:var(--white-c);
+}
+.p-title{
+    opacity: .7;
+}
+.p-title:not(:last-child){
+    margin-bottom: 15px;
+}
+.contact-info.social >a {
+    margin-right: 15px;
+}
+input,textarea{
+    background: none;
+    border: none;
+    position: relative;
+    width: 100%;
+    border-bottom: 1px rgba(255, 255, 255, 0.336) solid;
+    outline: 0;
+    color: #fff;
+    padding: 15px 5px;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+input:focus,textarea:focus{
+    transition: all ease-in-out .3s;
+    background: none;
+    border: none;
+    position: relative;
+    width: 100%;
+    border-bottom: 1px rgb(255, 255, 255) solid;
+}
+.site-btn{
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    background: #fff;
+    border: 0;
+    padding: 8px 25px;
+    border-radius: 50px;
+    margin-top: 15px;
+
+}
+::placeholder{
+    color:var(--white-c)
+}

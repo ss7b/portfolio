@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body{
+  background: var(--bg-color);
+  color: #fff;
+  font-family: Poppins;
+}
+.page-wraper{
+  position: relative;
+  margin: 45px 0;
+}
